@@ -1,5 +1,9 @@
 <h1 align='center'>Hola!👋 Me llamo Miguel! </h1>
 
+_ Desarrollador Front-End | Maquetación con HTML, CSS (Sass) y React 🌐
+_ Actualmente trabajando con React para el desarrollo de distintos proyectos.
+_ Mi curiosidad por la tencnología me lleva a que siempre esté capacitandome mediante cursos o de forma autodidacta. Planeo profundizar mis conocimientos y explorar nuevas tecnologías que me permitan ser cada vez mas eficiente.
+
 <br>
 
 <div style="display: inline-block" align='center'><br>
