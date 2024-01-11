@@ -4,7 +4,7 @@ _ Desarrollador Front-End | Maquetación con HTML, CSS (Sass) y React JS.
 
 _ Actualmente trabajando con React JS para el desarrollo de distintos proyectos.
 
-_ Mi curiosidad por la tencnología me lleva a una constante capacitación mediante cursos o de forma autodidacta, profundizando mis conocimientos actuales y explorando nuevas tecnologías que me permitan, en conjunto ser cada vez mas eficiente.
+_ Mi curiosidad por la tencnología me lleva a una constante capacitación mediante cursos o de forma autodidacta, profundizando mis conocimientos actuales y explorando nuevas tecnologías que me permitan, en conjunto, ser cada vez mas eficiente.
 
 <br>
 
