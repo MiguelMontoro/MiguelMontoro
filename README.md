@@ -6,7 +6,7 @@ _ Tengo conocimientos en maquetación con HTML, CSS (Sass) y React JS.
 
 _ Actualmente estoy trabajando con React JS para el desarrollo de distintos proyectos.
 
-_ Mi curiosidad por la tencnología me lleva a una constante capacitación mediante cursos o de forma autodidacta, profundizando mis conocimientos actuales y explorando nuevas tecnologías que me permitan, en conjunto, ser cada vez mas eficiente.
+_ Mi interés y curiosidad por la tecnología me impulsa a una formación continua, ya sea a través de cursos formales o de manera autodidacta. Este enfoque me permite profundizar mis conocimientos existentes y potenciarlos al explorar nuevas tecnologías asociadas.
 
 <br>
 
