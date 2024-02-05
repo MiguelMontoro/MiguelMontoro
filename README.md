@@ -1,6 +1,6 @@
 <h1 align='center'>Hola!👋 Me llamo Miguel! </h1>
 
-_ Soy desarrollador Front-End. 
+_ Desarrollador Front-End. 
 
 _ Tengo conocimientos en maquetación con HTML, CSS (Sass) y React JS.
 
